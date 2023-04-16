@@ -1,0 +1,15 @@
+C:\Users\IVM505\source\repos\csharpLab13\bin\Debug\net7.0\csharpLab13.exe
+C:\Users\IVM505\source\repos\csharpLab13\bin\Debug\net7.0\csharpLab13.deps.json
+C:\Users\IVM505\source\repos\csharpLab13\bin\Debug\net7.0\csharpLab13.runtimeconfig.json
+C:\Users\IVM505\source\repos\csharpLab13\bin\Debug\net7.0\csharpLab13.dll
+C:\Users\IVM505\source\repos\csharpLab13\bin\Debug\net7.0\csharpLab13.pdb
+C:\Users\IVM505\source\repos\csharpLab13\obj\Debug\net7.0\csharpLab13.csproj.AssemblyReference.cache
+C:\Users\IVM505\source\repos\csharpLab13\obj\Debug\net7.0\csharpLab13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVM505\source\repos\csharpLab13\obj\Debug\net7.0\csharpLab13.AssemblyInfoInputs.cache
+C:\Users\IVM505\source\repos\csharpLab13\obj\Debug\net7.0\csharpLab13.AssemblyInfo.cs
+C:\Users\IVM505\source\repos\csharpLab13\obj\Debug\net7.0\csharpLab13.csproj.CoreCompileInputs.cache
+C:\Users\IVM505\source\repos\csharpLab13\obj\Debug\net7.0\csharpLab13.dll
+C:\Users\IVM505\source\repos\csharpLab13\obj\Debug\net7.0\refint\csharpLab13.dll
+C:\Users\IVM505\source\repos\csharpLab13\obj\Debug\net7.0\csharpLab13.pdb
+C:\Users\IVM505\source\repos\csharpLab13\obj\Debug\net7.0\csharpLab13.genruntimeconfig.cache
+C:\Users\IVM505\source\repos\csharpLab13\obj\Debug\net7.0\ref\csharpLab13.dll
